@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you 👋, I'm Parshuram Singh</h1>
 <h3 align="center">Building smarter systems that learn from experience.</h3>
 
-<img align="center" alt="coding" width="400" src="image.png">
+<!-- <img align="center" alt="coding" width="400" src="image.png"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshuramsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="parshuramsingh013" /> </p>
 
@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parshuram-singh-911261250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parshuram-singh-911261250/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in
+parshuram-singh-911261250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parshuram-singh-911261250/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/parshuramsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/parshuramsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/parshuuu.ydv_8/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/parshuuu.ydv_8/?hl=en" height="30" width="40" /></a>
+<a href="https://www.instagram.com/parshuuu.ydv_8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/parshuuu.ydv_8/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/parshuramsingh433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/parshuramsingh433/" height="30" width="40" /></a>
 </p>
 
