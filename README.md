@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you 👋, I'm Parshuram Singh</h1>
-<h3 align="center">Building smarter systems that learn from experience.</h3>
+<h3 align="center">Merging numbers with logic to create evolving algorithms</h3>
 
 <!-- <img align="center" alt="coding" width="400" src="image.png"> -->
 
