@@ -2,7 +2,10 @@
 ---
 
 # 💫 About Me:
-Nice to meet you 👋, I'm Parshuram Singh<br>Merging numbers with logic to create evolving algorithms<br><br>🌱 I’m currently learning Machine Learning<br><br>📫 How to reach me parshuramsingh433@gmail.com
+<!-- Nice to meet you 👋, I'm Parshuram Singh<br>Merging numbers with logic to create evolving algorithms<br> -->
+<h1 align="center">Nice to meet you 👋, I'm Parshuram Singh</h1>
+<h3 align="center">Building smarter systems that learn from experience.</h3>
+<br>🌱 I’m currently learning Machine Learning<br><br>📫 How to reach me parshuramsingh433@gmail.com
 
 
 ## 🌐 Socials:
