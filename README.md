@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=Parshuramsingh013&icon=0&color=1)](https://visitcount.itsvg.in)
+---
+
 # 💫 About Me:
 Nice to meet you 👋, I'm Parshuram Singh<br>Merging numbers with logic to create evolving algorithms<br><br>🌱 I’m currently learning Machine Learning<br><br>📫 How to reach me parshuramsingh433@gmail.com
 
@@ -22,7 +25,7 @@ Nice to meet you 👋, I'm Parshuram Singh<br>Merging numbers with logic to crea
 ![](https://github-contributor-stats.vercel.app/api?username=Parshuramsingh013&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parshuramsingh013&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/parshuramsingh433)
